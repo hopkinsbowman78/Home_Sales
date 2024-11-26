@@ -5,7 +5,7 @@ In this challenge, I used my knowledge of SparkSQL to determine key metrics abou
 
 # Table of Contents
 - Home_Sales_starter_code_colab.ipynb
-- Home_Sales.ipynb (Code completed in Colab)
+- Home_Sales.ipynb (Final Code completed in Colab)
 
 # Documentation
 SparkSQL documentation (https://spark.apache.org/docs/latest/sql-ref.html)  
