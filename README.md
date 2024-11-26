@@ -8,5 +8,6 @@ In this challenge, I used my knowledge of SparkSQL to determine key metrics abou
 - Home_Sales.ipynb (Code completed in Colab)
 
 # Documentation
-SparkSQL documentation (https://spark.apache.org/docs/latest/sql-ref.html)
-Colab documentation (https://colab.research.google.com/)
+SparkSQL documentation (https://spark.apache.org/docs/latest/sql-ref.html)  
+Colab documentation (https://colab.research.google.com/)  
+Parquet documentation (https://parquet.apache.org/docs/)
