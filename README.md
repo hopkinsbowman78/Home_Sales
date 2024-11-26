@@ -1,12 +1,11 @@
 # Home_Sales
 
 # Project Synopsis
-In this challenge I used my knowledge of Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes. Also, code was submitted to github.com repo using command line prompts. 
-
+In this challenge, I used my knowledge of SparkSQL to determine key metrics about home sales data. Then I used Spark to create temporary views, partition the data, cache and uncache a temporary table, and verify that the table has been uncached.
 
 # Table of Contents
 - Home_Sales_starter_code_colab.ipynb
 - Home_Sales.ipynb (Code completed in Collab)
 
 # Documentation
-Scikit-learn documentation (https://scikit-learn.org/0.21/documentation.html)
+SparkSQL documentation (https://spark.apache.org/docs/latest/sql-ref.html)
