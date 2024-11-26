@@ -5,8 +5,8 @@ In this challenge I used my knowledge of Python and unsupervised learning to pre
 
 
 # Table of Contents
-- Crypto_Clustering.ipynb
-- Resources (crypto_market_data.csv)
+- Home_Sales_starter_code_colab.ipynb
+- Home_Sales.ipynb (Code completed in Collab)
 
 # Documentation
 Scikit-learn documentation (https://scikit-learn.org/0.21/documentation.html)
